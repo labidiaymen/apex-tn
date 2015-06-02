@@ -23,4 +23,4 @@ To contribute you should ensure that you follow these guidelines when making sub
 11. Only the first two "easy" links are shown, in the order of the array
 12. Link names should be the title of the destination
 
-Questions ?  contact [labidiaymen@outlook.com](mailto:labidiaymen@outlook.com)
+Questions ?  contact [@labidiaymen](https://twitter.com/labidiaymen)
