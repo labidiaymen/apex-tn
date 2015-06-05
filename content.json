@@ -2654,6 +2654,31 @@
        "url": "https://www.shirts.io/docs/products_reference/"
       }
     ]
+  },
+  {
+    "name": "gulp.js",
+    "tags": ["automate"],
+    "description": "Build system automating tasks: minification and copying of all JavaScript files, static images, capable of watching files to automatically rerun the task",
+    "home": "http://gulpjs.com/",
+    "before": [],
+    "after": [],
+    "links": [
+      {
+       "name": "Fundamentals",
+       "level": 0,
+       "url": "https://www.youtube.com/watch?v=LmdT2zhFmn4"
+      },
+      {
+       "name": "Setup",
+       "level": 0,
+       "url": "https://www.youtube.com/watch?v=Oehs2H95a6E"
+      },
+      {
+       "name": "Automate Tasks ",
+       "level": 0,
+       "url": "https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js"
+      }
+    ]
   }
 ]
 
